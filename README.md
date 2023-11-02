@@ -3,11 +3,13 @@
 ### project_11/02
 
 
-## <u>**마크 저커버그**</u>가 직접 만들어 본 AI비서 '자비스'
+## <u>'마크 저커버그'</u>가 직접 만들어 본 AI비서 '자비스'
 
 <details>
 <summary>본문</summary>
 <div markdown="1">
+
+<br>
 
 [원문 링크](https://about.fb.com/ko/news/2016/12/%EB%A7%88%ED%81%AC-%EC%A0%80%EC%BB%A4%EB%B2%84%EA%B7%B8-ai-%EB%B9%84%EC%84%9C-%EC%9E%90%EB%B9%84%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4/)
 
@@ -100,11 +102,13 @@ AI와 사람 사이의 의사소통에 있어 문자가 중요한 부분을 차�
 </details>
 
 
-## GPT-4 발표한 오픈AI <u>**'샘 알트만'**</u>
+## GPT-4 발표한 오픈AI <u>'샘 알트만'</u>
 
 <details>
 <summary>본문</summary>
 <div markdown="1">
+
+<br>
 
 [원문 링크](https://www.aitimes.kr/news/articleView.html?idxno=27595)
 
@@ -166,12 +170,13 @@ GPT-4는 월 20달러를 지불하는 유료 서비스인 챗GPT플러스(ChatGP
 </div>
 </details>
 
-## 세계 4대 AI 석학 <u>**앤드류 응**</u> 교수, "인공지능 업계에 영원한 봄 왔다"
-
+## 세계 4대 AI 석학 <u>'앤드류 응'</u> 교수, "인공지능 업계에 영원한 봄 왔다"
 
 <details>
 <summary>본문</summary>
 <div markdown="1">
+
+<br>
 
 [원문 링크](https://www.donga.com/news/It/article/all/20230725/120394744/1)
 
@@ -219,5 +224,12 @@ GPT-4는 월 20달러를 지불하는 유료 서비스인 챗GPT플러스(ChatGP
 </details>
 
 ---
-요약, 회고
+
+기사 보고 느낀점 인공지능은 혁신적인 기술이지만 사회적 합의와 규제가 필수적이다
+
+하루만에 깃이 꽤 손에 익는것같아서 좋았습니다. 
+
+
+
+
 
