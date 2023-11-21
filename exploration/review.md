@@ -1,9 +1,7 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 코더 1인의 이름을 작성하세요.
-- 리뷰어 : 본인의 이름을 작성하세요.
-
-
+- 코더 : 옥창우
+- 리뷰어 : 이승제
 
 🔑 **PRT(Peer Review Template)**
 
@@ -12,6 +10,25 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
+     
+    - 1. MSE 손실함수값 3000 이하를 달성
+     ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/0edbc923-60e5-44ab-9c45-d7bb0e15f4e2)
+         
+    - 2. RMSE 값 150 이하를 달성
+      ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/1d4372ca-c8a5-4c98-af33-f27c8de596c8)
+
+
+         
+    - 3. 각 프로젝트 진행 과정에서 요구하고 있는 데이터개수 시각화 및 예측결과 시각화를 모두 진행하였다.
+    프로젝트 1.
+    (10) test 데이터에 대한 성능 확인하기 - 예측결과 시각화 
+     ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/7d30eaf0-c6e9-4125-8842-0f981c2750e1)
+
+    프로젝트 2.
+    (3) year, month, day, hour, minute, second 데이터 개수 시각화하기
+    ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/5a411cef-3e99-4138-9419-1a7c2dfb2700)
+
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -19,6 +36,8 @@
     - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 근거로 첨부합니다.
+     
+    
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
