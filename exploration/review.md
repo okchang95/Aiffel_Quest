@@ -22,7 +22,7 @@
     - 3. 각 프로젝트 진행 과정에서 요구하고 있는 데이터개수 시각화 및 예측결과 시각화를 모두 진행하였다.
     프로젝트 1.
     (10) test 데이터에 대한 성능 확인하기 - 예측결과 시각화 
-     ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/7d30eaf0-c6e9-4125-8842-0f981c2750e1)
+    ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/7d30eaf0-c6e9-4125-8842-0f981c2750e1)
 
     프로젝트 2.
     (3) year, month, day, hour, minute, second 데이터 개수 시각화하기
