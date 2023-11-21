@@ -12,10 +12,10 @@
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
      
     - 1. MSE 손실함수값 3000 이하를 달성
-     ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/0edbc923-60e5-44ab-9c45-d7bb0e15f4e2)
+![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/0edbc923-60e5-44ab-9c45-d7bb0e15f4e2)
          
     - 2. RMSE 값 150 이하를 달성
-      ![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/1d4372ca-c8a5-4c98-af33-f27c8de596c8)
+![image](https://github.com/happybin2013/aiffel_quest_okchang95/assets/85716670/1d4372ca-c8a5-4c98-af33-f27c8de596c8)
 
 
          
