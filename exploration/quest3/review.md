@@ -1,4 +1,4 @@
-[다은님 코드 참고](https://github.com/DiANA-KANG/AIFFEL-QUEST/blob/main/exploration_06/exploration_06.ipynb)
+[다은님 코드](https://github.com/DiANA-KANG/AIFFEL-QUEST/blob/main/exploration_06/exploration_06.ipynb)
 
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
