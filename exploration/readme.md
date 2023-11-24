@@ -1,7 +1,7 @@
 # Quest 목록 (in progress,,)
 
-1. [Quest1 : Regression 연습](##Quest1)
-2. [Quest2 : 나의 첫 번째 캐글 경진대회, 무작정 따라해보기](##Quest2)
+1. [Quest1 : Regression 연습](##Quest1-:-Regression-연습)
+2. [Quest2 : 나의 첫 번째 캐글 경진대회, 무작정 따라해보기](##Quest2-:-나의-첫-번째-캐글-경진대회,-무작정-따라해보기)
 3. [Quest3 : 카메라 스티커 앱 만들기 첫걸음](##Quest1)
 4. [Quest4 : 영화리뷰 텍스트 감성분석하기](##Quest1)
 5. [Quest5 : 인물사진을 만들어 보자](##Quest1)
