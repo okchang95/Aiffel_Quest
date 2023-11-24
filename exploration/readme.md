@@ -9,7 +9,7 @@
   
 
 ## Quest2 : 나의 첫 번째 캐글 경진대회, 무작정 따라해보기
-- compition link : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
+- competition link : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
 
 ## Quest3 : 카메라 스티커 앱 만들기 첫걸음
 
