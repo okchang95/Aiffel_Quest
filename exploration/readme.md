@@ -2,9 +2,9 @@
 ---
 
 ## Quest1 : Regression 연습
-- (1) 손수 설계하는 선형회귀, 당뇨병 수치를 맞춰보자
+### (1) 손수 설계하는 선형회귀, 당뇨병 수치를 맞춰보자
   - dataset : [당뇨병 환자 데이터(diabetes)와 다중 선형 회귀](https://yhyun225.tistory.com/11) 
-- (2) 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?
+### (2) 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명?
   - dataset : [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data)
   
 
