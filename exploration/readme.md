@@ -1,6 +1,6 @@
 # Quest 목록 (in progress,,)
 
-1. [Quest1 : Regression 연습](##Quest1 : Regression 연습)
+1. [Quest1 : Regression 연습](##Quest1)
    1.1 [소제목 1.1](###소제목-11)
    1.2 [소제목 1.2](###소제목-12)
 2. [제목 2](#제목-2)
