@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 옥창우
+- 코더 : 옥창우 (은송님코드)
 - 리뷰어 : 
 
 ### 루브릭
