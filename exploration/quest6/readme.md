@@ -1,7 +1,7 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
 - 코더 : 옥창우
-- 리뷰어 : 본인의 이름을 작성하세요.
+- 리뷰어 : 
 
 ### 루브릭
 |평가문항|상세기준|
