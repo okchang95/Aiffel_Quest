@@ -1,4 +1,4 @@
-# Quest 목록 (in progress,,)
+# Contents
 <!--
 1. [Quest1 : Regression 연습](##Quest1-:-Regression-연습)
 2. [Quest2 : 나의 첫 번째 캐글 경진대회, 무작정 따라해보기](##Quest2-:-나의-첫-번째-캐글-경진대회,-무작정-따라해보기)
