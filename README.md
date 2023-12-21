@@ -23,9 +23,9 @@
    > : face detection 기술, 이미지 처리기법 등 기초적인 CV 구현<br>
    <br>
 4. [QUEST4](https://github.com/okchang95/aiffel_quest_changwoo/tree/main/exploration/quest4) : 영화리뷰 텍스트 감성분석<br><br>
--->
    > : Text Classification task 구현 ~ embedding, 모델 비교, 기초적인 NLP 구현<br>
    <br>
 5. [QUEST5](https://github.com/okchang95/aiffel_quest_changwoo/tree/main/exploration/quest5) : Semantic segmentation으로 shallow focus 구현<br><br>
    > : CV segmantation task -> pretrained medel(DeepLabV3+) 활용, 문제점 분석<br>
    <br>
+-->
