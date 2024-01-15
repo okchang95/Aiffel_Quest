@@ -1,25 +1,30 @@
 # Exploration
 ---
 ## quest1. 기초적인 회귀 모델 활용 데이터분석 프로젝트 : Kaggle - bike sharing dataset
-  - ** " " ** : 
+  - **Regression** : 
     1. 당뇨병 환자 데이터(diabetes)와 다중 선형 회귀(Multi Regression Model)
     2. Kaggle - bike sharing dataset
 
-## quest2. 2019 2nd ML month with KaKR
-  - **Vectorization**: `BoW`, `DTM`, `TF-IDF`, `LSA`, `SVD`, `LDA`, ...
+## quest2. 2019 2nd ML month with KaKR: House Price Prediction
+  - **Kaggle**: `regression`, `machine learning` ...
     
-## quest3. 영화 시놉시스 코퍼스 편향성 측정
-  - **Word Embedding**: `One-Hot encoding`, `Word2Vec`, `CBoW`, `Skip-gram`, `Negative sampling`, `FastText`, `GloVe`, `Co-occurrence Matrix`, `WEAT` ...
+## quest3. 고양이 수염 스티커 만들기
+  - **Image data**: `opencv`, `dlib`
     
-## quest4. Seq2seq으로 번역기 만들기
-  - **Seq2seq, Attention**: `Seq2seq`, `Encoder-Decoder`, `Bahdanau Attention`, `Luong Attention`, ...
+## quest4. Text classification: Sentimental Analysis(imdb, nsmc)
+  - **Text data**: `Deep Learning`, `RNN`, `Embedding layer`, `Word2Vec`, `konlpy`, `gensim`, ...
     
-## quest5. Transformer로 번역기 만들기
-  - **Transformer**: `Attention`, `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, `BERT`, `GPT`, ...
+## quest5. Shallow focus 구현
+  - **Sementic segmentation**: `pre-trained(PASCAL VOC) model: DeepLab V3+`, `masking` ...
 
-## quest6. 
-## quest7. 
-## quest8. 
+## quest6. 뉴스기사 요약 ***!!
+  - **Text Summarization**: `seq2seq`, `LSTM(hardcoding)`, `Attention`, `token`, `stopwords`, `textdata preprocessing`, `encoding`, `padding`, `early stopping`, `inference`, `abstractive/extractive summarization`
+
+## quest7. Sketch2Pokemon / Segmentation map으로 도로 이미지 만들기
+  - **GAN**: `CNN`, `GAN/cGAN(hardcoding)`, `generator`, `discriminator`, `maxout`, `Pix2Pix`, `Encoder-Decoder`, `U-Net`, `Augmentation`, `skip-connection`
+
+## quest8. 한국어 데이터로 챗봇 만들기
+  - **Transformer**: `Transformer(hardcoding)`, `positional encoding`, `attention`, `scaled dot product attention`, `multi-head attention`, `padding/look-ahead masking`, `vocabulary`, `Teacher Forcing`, 
 
 ## Main_Quest_1.
 
