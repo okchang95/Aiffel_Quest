@@ -1,13 +1,33 @@
-# Contents
+# Exploration
+---
+## quest1. SentencePiece. 단어사전 만들기
+  - **Tokenizing**: `BPE`, `WPM`, `SentencePiece`, `soynlp`, `KoNLPy`, ...
+    
+## quest2. Reuters 뉴스기사 카테고리 다중분류
+  - **Vectorization**: `BoW`, `DTM`, `TF-IDF`, `LSA`, `SVD`, `LDA`, ...
+    
+## quest3. 영화 시놉시스 코퍼스 편향성 측정
+  - **Word Embedding**: `One-Hot encoding`, `Word2Vec`, `CBoW`, `Skip-gram`, `Negative sampling`, `FastText`, `GloVe`, `Co-occurrence Matrix`, `WEAT` ...
+    
+## quest4. Seq2seq으로 번역기 만들기
+  - **Seq2seq, Attention**: `Seq2seq`, `Encoder-Decoder`, `Bahdanau Attention`, `Luong Attention`, ...
+    
+## quest5. Transformer로 번역기 만들기
+  - **Transformer**: `Attention`, `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, `BERT`, `GPT`, ...
+
+## quest6. 
+## quest7. 
+## quest8. 
+
+## Main_Quest_1.
+
+
 <!--
 1. [Quest1 : Regression 연습](##Quest1-:-Regression-연습)
 2. [Quest2 : 나의 첫 번째 캐글 경진대회, 무작정 따라해보기](##Quest2-:-나의-첫-번째-캐글-경진대회,-무작정-따라해보기)
 3. [Quest3 : 카메라 스티커 앱 만들기 첫걸음](##Quest3-:-카메라-스티커-앱-만들기-첫걸음)
 4. [Quest4 : 영화리뷰 텍스트 감성분석하기](##Quest4-:-영화리뷰-텍스트-감성분석하기)
 5. [Quest5 : 인물사진을 만들어 보자](##Quest5-:-인물사진을-만들어-보자)
-   
-
-
 
 
 ---
