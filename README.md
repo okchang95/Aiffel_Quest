@@ -33,7 +33,7 @@
 - (20231030 - 20231103) Onboard
 - (20231106 - 20231117) Fundamental
 - (20231120 - 2023 ) Exploration: quest 01 ~ 08
-- (2023 ) Main Quest 1
+- (20231201) Main Quest 1
 - (2023 - 2023 ) Deep Learning with Python
 - (2023 ) Main Quest 2
 - (20231227 - 20240109) Going Deeper(NLP) quest 01 ~ 05
