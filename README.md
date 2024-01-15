@@ -31,16 +31,16 @@
 -->
 |date|contents|
 |---|---|
-|20231030 - 20231103| Onboard|
-|20231106 - 20231117| Fundamental|
-|20231120 - 20231130| Exploration: quest 01 ~ 08|
-|20231201| **Main Quest 1**|
-|20231204 - 20231221| Deep Learning with Python|
-|20231222| **Main Quest 2**|
-|20231227 - 20240109| Going Deeper(NLP) quest 01 ~ 05|
-|20240110 - 20240112| **DLThon**|
-|20241113 - 20240121| *vacation*|
-|20240122 - )| Going Deeper(NLP) quest 06 ~ |
+|2023/10/30 - 2023/11/03| Onboard|
+|2023/11/06 - 2023/11/17| Fundamental|
+|2023/11/20 - 2023/11/30| Exploration: quest 01 ~ 08|
+|2023/12/01| **Main Quest 1**|
+|2023/12/04 - 2023/12/21| Deep Learning with Python|
+|2023/12/22| **Main Quest 2**|
+|2023/12/27 - 2024/01/09| Going Deeper(NLP) quest 01 ~ 05|
+|2024/01/10 - 2024/01/12| **DLThon**|
+|2024/11/13 - 2024/01/21| *vacation*|
+|2024/01/22 - )| Going Deeper(NLP) quest 06 ~ |
 
 
 
