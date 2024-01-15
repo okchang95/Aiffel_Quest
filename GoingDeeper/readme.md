@@ -15,5 +15,4 @@
 ## quest5. Transformer로 번역기 만들기
   - **Transformer**: `Attention`, `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, `BERT`, `GPT`, ...
     
-  
-## DLton
+## DLton. DKTC 다중분류 프로젝트: 한국어 위협 대화 데이터셋 활용
