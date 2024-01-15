@@ -2,7 +2,7 @@
 
 **DLTHON_NLP 기간: 2024년 1월 10일부터 1월 12일**   
 
-**팀명: 바른말 고운말**
+**팀명: [바른말 고운말](https://github.com/okchang95/DLTHON_NLP_DKTC)**
 
 DKTC (Dataset of Korean Threatening Conversations)을 활용한 다중 분류 프로젝트를 진행하였습니다.   
 이 프로젝트에서 저희 팀은 **머신러닝과 딥러닝 모델을 활용하여 주어진 DKTC dataset(한국어 위협 대화 데이터셋)의 4가지 클래스 분류**를 수행하였습니다.
