@@ -5,7 +5,7 @@
     1. 당뇨병 환자 데이터(diabetes)와 다중 선형 회귀(Multi Regression Model)
     2. Kaggle - bike sharing dataset
 
-## quest2. Reuters 뉴스기사 카테고리 다중분류
+## quest2. 2019 2nd ML month with KaKR
   - **Vectorization**: `BoW`, `DTM`, `TF-IDF`, `LSA`, `SVD`, `LDA`, ...
     
 ## quest3. 영화 시놉시스 코퍼스 편향성 측정
