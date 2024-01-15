@@ -40,7 +40,7 @@
 |2023/12/27 - 2024/01/09| Going Deeper:NLP (quest 01 ~ 05)|
 |2024/01/10 - 2024/01/12| **DLThon**|
 |2024/11/13 - 2024/01/21| *vacation*|
-|2024/01/22 - )| Going Deeper:NLP (quest 06 ~ )|
+|2024/01/22 - | Going Deeper:NLP (quest 06 ~ )|
 
 
 
