@@ -1,3 +1,3 @@
-# Exploration Main Quest 1
+# Main Quest 1 (Exploration)
 
 
