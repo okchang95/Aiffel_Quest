@@ -1,15 +1,15 @@
 # Exploration
 ---
 ## quest1. 기초적인 회귀 모델 활용 데이터분석 프로젝트 : Kaggle - bike sharing dataset
-  - **Regression** : 
+  - **Regression** : `matplotlib`, `correlation-coefficient`, `machine learning`, `loss function`, `gradient descent`, `optimization`, `prediction(regression)`, ``````````````````` `LinearRegression`
     1. 당뇨병 환자 데이터(diabetes)와 다중 선형 회귀(Multi Regression Model)
     2. Kaggle - bike sharing dataset
 
 ## quest2. 2019 2nd ML month with KaKR: House Price Prediction
-  - **Kaggle**: `regression`, `machine learning` ...
+  - **Kaggle**: `kaggle`, `hyperparameter tuning`, `Grid/Random Search`, `scoring`
     
 ## quest3. 고양이 수염 스티커 만들기
-  - **Image data**: `opencv`, `dlib`
+  - **Image data**: `opencv`, `dlib`, `landmark/alignment`, `keypoint detection`, `HOG`, `SVM`, `Object keypoint estimation`...
     
 ## quest4. Text classification: Sentimental Analysis(imdb, nsmc)
   - **Text data**: `Deep Learning`, `RNN`, `Embedding layer`, `Word2Vec`, `konlpy`, `gensim`, ...
