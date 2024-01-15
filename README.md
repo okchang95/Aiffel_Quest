@@ -29,3 +29,17 @@
    > : CV segmantation task -> pretrained medel(DeepLabV3+) 활용, 문제점 분석<br>
    <br>
 -->
+
+- (20231030 - 20231103) Onboard
+- (20231106 - 20231117) Fundamental
+- (20231120 - 2023 ) Exploration: quest 01 ~ 08
+- (2023 ) Main Quest 1
+- (2023 )Deep Learning with Python
+- Main Quest 2
+- Going Deeper(NLP) quest 01 ~ 05
+- (20240110 - 20240112)DLThon
+- (20240122- )Going Deeper(NLP) quest 06 ~
+
+
+
+
