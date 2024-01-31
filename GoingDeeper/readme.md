@@ -13,12 +13,25 @@
   - **Seq2seq, Attention**: `Seq2seq`, `Encoder-Decoder`, `Bahdanau Attention`, `Luong Attention`, ...
     
 ## quest5. Transformer로 번역기 만들기
-  - **Transformer**: `Attention`, `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, `BERT`, `GPT`, ...
+  - **Transformer model architecture**: `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, ...
     
-## DLthon. [DKTC 다중분류 프로젝트: 한국어 위협 대화 데이터셋 활용](https://github.com/okchang95/DLTHON_NLP_DKTC)
+### DLthon. [DKTC 다중분류 프로젝트: 한국어 위협 대화 데이터셋 활용](https://github.com/okchang95/DLTHON_NLP_DKTC)
 
 ## quest6. 챗봇 만들기 
+  - **Text generation, Augmentation**: `Greedy Decoding`, `Beam Search`, `Sampling`, `Data Augmentation`, `Lexical Substitution`, `Back Translation`, `Random Noise Injection`, ...
 
 ## quest7. BERT pretrained model 제작
-## quest8. HuggingFace
-## quest9. 
+  - **Modern NLP**:  `ELMO`, `GPT`, `BERT`, ...
+
+## quest8. HuggingFace 커스텀 프로젝트
+  - **NLP Framework**: `HuggingFace`, ...
+
+## quest9. KoChatGPT 업그레이드
+  - **LLM Trend**: 
+
+### Main_quest_4
+
+
+
+
+
