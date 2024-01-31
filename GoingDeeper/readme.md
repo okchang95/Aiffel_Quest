@@ -20,4 +20,5 @@
 ## quest6. 챗봇 만들기 
 
 ## quest7. BERT pretrained model 제작
-## quest8
+## quest8. HuggingFace
+## quest9. 
