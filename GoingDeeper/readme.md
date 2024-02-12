@@ -15,7 +15,7 @@
 ## quest5. Transformer로 번역기 만들기
   - **Transformer model architecture**: `Positional Encoding`, `Multi-Head Attention`, `Position-wise Feed-Forward Networks`, `Add & Norm`, ...
 
-## quest6. 챗봇 만들기 
+## quest6. Transformer로 챗봇 만들기 
   - **Text generation, Augmentation**: `Greedy Decoding`, `Beam Search`, `Sampling`, `Data Augmentation`, `Lexical Substitution`, `Back Translation`, `Random Noise Injection`, ...
 
 ## quest7. BERT pretrained model 제작
