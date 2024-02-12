@@ -1,4 +1,4 @@
-# GoingDeeper
+# GoingDeeper_NLP
 ---
 ## quest1. SentencePiece. 단어사전 만들기
   - **Tokenizing**: `BPE`, `WPM`, `SentencePiece`, `soynlp`, `KoNLPy`, ...
