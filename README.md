@@ -39,7 +39,7 @@
 |2023/12/22| **Main Quest 2**|
 |2023/12/27 - 2024/01/09| Going Deeper:NLP (quest 01 ~ 05)|
 |2024/01/10 - 2024/01/12| **DLThon**|
-|2024/11/13 - 2024/01/21| *vacation* Main Quest 3|
+|2024/01/13 - 2024/01/21| *vacation* Main Quest 3|
 |2024/01/22 - 2024/01/31| Going Deeper:NLP (quest 06 ~ 09)|
 |2024/02/01 - 2024/02/02| Main Quest 4|
 |2024/02/05 - 2024/02/16| Slow paper |
