@@ -46,6 +46,5 @@
 |2024/02/19| **Main Quest 5**||
 |2024/02/20 - 2024/04/15| AIFFELTHON|최종과제|
 
-[Kaggle] Motorcycle Night Ride (Semantic Segmentation)
 
 
