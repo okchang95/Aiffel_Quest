@@ -34,13 +34,13 @@
 |2023/10/30 - 2023/11/03| Onboard |협업 툴, OS, Linux 소개|
 |2023/11/06 - 2023/11/17| Fundamental|기초이론: python, linear algebra, ML/DL|
 |2023/11/20 - 2023/11/30| Exploration (quest 01 ~ 08)|간단한 실습으로 이론 적용|
-|2023/12/01| **Main Quest 1**|[Kaggle] Chest X-Ray Images (Pneumonia)|
+|2023/12/01| **Main Quest 1**|[Kaggle]|<!-- Chest X-Ray Images (Pneumonia)|-->
 |2023/12/04 - 2023/12/21| Deep Learning with Python|기초이론 bottom up + keras API|
-|2023/12/22| **Main Quest 2**|[Kaggle] Motorcycle Night Ride (Semantic Segmentation)|
-|2023/12/27 - 2024/01/09| Going Deeper:NLP (quest 01 ~ 05)|NLP 심화|
-|2024/01/10 - 2024/01/12| **DLThon**|DKTC (Dataset of Korean Threatening Conversations)|
+|2023/12/22| **Main Quest 2**|[Kaggle]|<!-- Motorcycle Night Ride (Semantic Segmentation)|-->
+|2023/12/27 - 2024/01/09| Going Deeper:NLP (quest 01 ~ 05)|NLP 심화 ~transformer|
+|2024/01/10 - 2024/01/12| **DLThon**|DKTC classification|<!-- (Dataset of Korean Threatening Conversations)|-->
 |2024/01/13 - 2024/01/21| *vacation* Main Quest 3||
-|2024/01/22 - 2024/01/31| Going Deeper:NLP (quest 06 ~ 09)|NLP 심화|
+|2024/01/22 - 2024/01/31| Going Deeper:NLP (quest 06 ~ 09)|NLP 심화 transformer~|
 |2024/02/01 - 2024/02/02| Main Quest 4||
 |2024/02/05 - 2024/02/16| Slow paper |papers review|
 |2024/02/19| **Main Quest 5**||
